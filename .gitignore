@@ -1,8 +1,8 @@
 #folders
 .settings/
-bin
-.classpath
-.project
+bin/
 
 #files
 *.class
+.classpath
+.project
